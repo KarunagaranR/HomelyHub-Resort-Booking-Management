@@ -3,7 +3,7 @@ HomelyHub is a platform that lets people find and book unique places to stay whi
 
 
 Features:
-• User Authentication
+• User Authentication 
 • Search & Filters
 • View Listings
 • Property Listings
